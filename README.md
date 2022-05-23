@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selman</h1>
-<h3 align="center">A passionate mobile developer</h3>
+<h3 align="center">A passionate junior mobile developer</h3>
 
 - 🌱 I’m currently learning **Flutter, Swift**
 
