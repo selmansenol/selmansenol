@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/selmansenol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/selmansenol" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/selmansenol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selman-%c5%9fenol-363435206/" height="30" width="40" /></a>
+<a href="https://twitter.com/selmansenol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/selmansenol" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/selmansenol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selmansenol" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
