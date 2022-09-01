@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Selman</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
+
 - 📫 How to reach me **selmansenol@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>z
 <p align="left">
 <a href="https://twitter.com/selmansenol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/selmansenol" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/selmansenol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/selmansenol" height="30" width="40" /></a>
